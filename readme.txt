@@ -1,4 +1,4 @@
-
+** This is a modified verstion of the Chai3D Framework, modified for compatibility with 3DSlicer 5.x **
 
 CHAI3D - The Open Source Haptic Framework
 -----------------------------------------
