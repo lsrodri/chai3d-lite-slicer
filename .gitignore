@@ -1,11 +1,13 @@
 # Folders
 .vs/
+libchai3d.xcodeproj/
 bin/resources
 modules/GEL/bin/
 modules/GEL/.vs/
 modules/OCULUS/bin/
 modules/OCULUS/.vs/
-
+obj/Release/x64/
+chai3d.xcodeproj/
 # Prerequisites
 *.d
 
